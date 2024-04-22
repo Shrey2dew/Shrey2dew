@@ -13,7 +13,7 @@
 
 
 <div align="center">
-🌱 I’m currently learning **Java**
+🌱 I’m currently learning Java
 
 📫 How to reach me **shreynalode8@gmail.com**
 
