@@ -53,3 +53,4 @@
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey2dew&theme=transparent">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey2dew&theme=transparent" alt="Profile Details">
 </a><br/>
+![snake gif](https://github.com/Shrey2dew/Shrey2dew/blob/output/github-contribution-grid-snake.gif)
