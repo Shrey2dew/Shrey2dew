@@ -53,11 +53,3 @@
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey2dew&theme=transparent">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey2dew&theme=transparent" alt="Profile Details">
 </a><br/>
-</div>
-
-
-
-</div>
-
-
-
