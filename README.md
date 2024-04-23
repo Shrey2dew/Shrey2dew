@@ -46,7 +46,7 @@
 <br>
 <div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey2dew&layout=donut&theme=transparent&height=100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey2dew&layout=donut&theme=dark&height=100)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shrey2dew&theme=github-blue&border_radius=10" alt="GitHub Streak" /></a>  
 
 ## GitHub Profile Summary Card
